@@ -1,7 +1,7 @@
 {
   "name": "Nathan-First-App",
   "version": "1.0.0",
-  "description": "Ultraviolet instance",
+  "description": "First Ever Website",
   "type": "module",
   "engines": {
     "npm": ">=7.0.0",
